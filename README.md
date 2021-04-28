@@ -1,2 +1,2 @@
-# CS3310---Brouvka-s-algorithm
-Brouvka’s algorithm
+# CS3310---Borůvka's-algorithm
+Borůvka's algorithm
